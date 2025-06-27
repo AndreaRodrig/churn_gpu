@@ -10,11 +10,13 @@ Este proyecto aplica una red neuronal tipo LSTM para predecir la recurrencia de 
 - Keras
 - cuDF (opcional, si se quiere usar GPU también para procesamiento de datos)
 
+## Nota
+
+Funciona mejor en Jupyter
+
 Puedes instalar las dependencias con:
 
 ```bash
 pip install -r requirements.txt
 
-## Nota
 
-Funciona mejor en Jupyter
