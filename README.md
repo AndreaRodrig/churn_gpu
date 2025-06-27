@@ -14,3 +14,7 @@ Puedes instalar las dependencias con:
 
 ```bash
 pip install -r requirements.txt
+
+## Nota
+
+Funciona mejor en Jupyter
